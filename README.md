@@ -13,7 +13,7 @@ I am Aditya Sawant, an undergraduate student at Pune Institute of Computer Techn
 
 ## My GitHub stats
 
-![Aditya's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adz-313&theme=green-white) ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adz-313&theme=blue-white) 
+![Aditya's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adz-313&theme=midnight-purple&layout=compact) ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adz-313&theme=midnight-purple&show_icons=true&hide=prs,issues&line_height=30) 
 
 
 
