@@ -1,7 +1,7 @@
 # Hi there 👋. Welcome to my GitHub profile. 😄
 
 ## About me
-I am Aditya Sawant, an undergraduate student at Pune Institute of Computer Technology. I like to develop full stack web applications. I'm also interested in machine learning and a competitive programming. Here, you can find my side projects as well as my practice codes. I've pinned some of the cool looking ones to save you some time.
+Hi, I am Aditya, an undergraduate student at Pune Institute of Computer Technology. I like to develop full stack web applications. I'm also interested in machine learning and a competitive programming. Here, you can find my side projects as well as my practice codes. I've pinned some of the cool looking ones to save you some time.
 
 ## Languages I use
 
